@@ -1,0 +1,2 @@
+# QrCodeGeneratorTelegramBot
+ Telegram bot
